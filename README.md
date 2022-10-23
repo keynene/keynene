@@ -1,6 +1,6 @@
 
 <div align='center'>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIM%20EUN%20YOUNG&fontSize=90&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIM%20EUN%20YOUNG&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <h3 align="center"> 🙋🏻‍♀ Me ️🙋🏻‍ </h3>
