@@ -1,17 +1,20 @@
 
 <div align='center'>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KIM%20EUN%20YOUNG&fontSize=70&animation=fadeIn&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=150&section=header&text=KIM%20EUN%20YOUNG&fontSize=70&animation=fadeIn&fontAlignY=50" />
 </div>
 
 <h3 align="center"> 🙋🏻‍♀ Me ️🙋🏻‍ </h3>
 
 <div align='center'>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
+<a href="https://github.com/keynene"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> <a href="https://velog.io/@keynene/series"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
 </div>
+<h4 align='center'>Velog : https://velog.io/@keynene/series</h4>
 <div align='center'>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nonung2)](https://solved.ac/nonung2) <!--[![keynene's GitHub stats](https://github-readme-stats.vercel.app/api?username=keynene)](https://github.com/anuraghazra/github-readme-stats)-->
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nonung2)](https://solved.ac/nonung2) 
+
+<!--[![keynene's GitHub stats](https://github-readme-stats.vercel.app/api?username=keynene)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </div>
 </br>
@@ -39,5 +42,5 @@
 
 
 <div align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8B9CC&height=130&section=footer" />
 </div>
